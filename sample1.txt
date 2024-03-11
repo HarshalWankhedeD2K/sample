@@ -1,3 +1,0 @@
-This is a sample file 1
-
-This line is added in dev1 branch
